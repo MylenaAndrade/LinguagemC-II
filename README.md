@@ -1,2 +1,2 @@
-# Exercico-em-LinguagemC-II
+# LinguagemC-II
 Exercícios de Fundamentos de Algoritmos de Computação
